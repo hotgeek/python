@@ -6,4 +6,4 @@ def F(x):
 M = map(F, L)
 
 for element in M:
-    print(element)
+    print(element) 
