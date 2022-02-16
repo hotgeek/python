@@ -1,0 +1,6 @@
+---------------------------------------------------------------------- my_func
+Time of call: Tue Feb  1 09:46:32 2022
+Arguments:
+Non keyword Arguments:
+args[0]:10, type(args[0]:<class 'int'>
+args[1]:20, type(args[1]:<class 'int'>
